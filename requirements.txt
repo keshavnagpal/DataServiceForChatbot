@@ -1,0 +1,10 @@
+sanic
+asyncio 
+pyodbc
+pandas
+numpy
+pygal
+redis
+virtualenv 
+gunicorn 
+subprocess32

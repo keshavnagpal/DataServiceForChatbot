@@ -1,0 +1,14 @@
+{
+    "database":{
+
+    },
+    "keys":{
+    },
+    "statusMapping":{
+        "ontrack":[1,2,3,8],
+        "offtrack":[5,6,7,10],
+        "alert":[4,9]
+    },
+    "projectcount":"top 10"
+    
+}

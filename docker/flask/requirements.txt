@@ -1,0 +1,10 @@
+flask
+pypyodbc
+pyodbc
+numpy
+pandas
+pygal
+flask_cors
+flask-compress
+flask_caching
+redis
